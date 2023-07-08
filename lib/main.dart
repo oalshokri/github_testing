@@ -6,6 +6,7 @@ void main() {
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
+  // developer 1
   // developer 2
   // This widget is the root of your application.
   @override
